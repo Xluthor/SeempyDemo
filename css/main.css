@@ -1,0 +1,30 @@
+* {
+    -webkit-font-smoothing: antialiased;
+}
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Product Image Animation */
+.img-hover-zoom {
+    overflow: hidden; 
+    position: relative;
+}
+  
+.img-hover-zoom img {
+    transition: transform 1s ease;
+}
+  
+.img-hover-zoom:hover img {
+    transform: scale(1.1);
+}
+
+.top-50 {
+    top: 50%;
+}
+
+.slide-product button:focus {
+   outline: 0;
+}
