@@ -43,14 +43,14 @@
     <!-- Hero Image -->
     <div class="md:py-40" style="background: url(img/main-slider-img-1.jpg)no-repeat center; background-size: 100%;">
         <div class="container mx-auto px-6">
-            <h2 class="text-4xl font-bold mb-2 text-black">
+            <h2 class="text-4xl font-bold mb-2 text-white">
                 Homelife
             </h2>
             <h3 class="text-2xl mb-8 text-white">
                 Lorem ipsum dolor sit amet consectetut.
             </h3>
 
-            <a href="#" class="bg-transparent text-gray-900 font-semibold py-2 px-4 mt-3 border border-gray-900">
+            <a href="#" class="bg-transparent text-white font-semibold py-2 px-4 mt-3 border border-white">
                 Comprar
             </a>
         </div>
